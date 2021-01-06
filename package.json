@@ -2,7 +2,7 @@
   "name": "gshop-client",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "LWS-CSDN <1074805703@qq.com>",
+  "author": "LWS-CSDN <1174806703@qq.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
